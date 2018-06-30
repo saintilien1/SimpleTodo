@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=https://github.com/saintilien1/SimpleTodo/blob/master/videotogif_2018.06.26_17.44.45.gif' width='' alt='Video SimpleTodo' />
+<img src='https://github.com/saintilien1/SimpleTodo/blob/master/videotogif_2018.06.26_17.44.45.gif' width='' alt='Video SimpleTodo' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
