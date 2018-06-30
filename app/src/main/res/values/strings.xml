@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleTodo</string>
+    <string name="button">Add item</string>
+    <string name="TextView">Enter a new item</string>
+    <string name="done">Done</string>
+    <string name="Edit">EditText</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_std">Welcome to STD</string>
+</resources>
